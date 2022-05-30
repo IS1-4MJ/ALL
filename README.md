@@ -12,16 +12,11 @@ CAN BE INSIDE THIS PLACE
 
     ALL/
         BLOG/
-
-   SCRIPT/
-
-   CALCULUS/
-
-   ...
-
-   ANALYSIS/
-
-   PHOTO/ 
+        SCRIPT/
+        CALCULUS/
+        ...
+        ANALYSIS/
+        PHOTO/ 
 
 
    THIS PLACE HAS AT MOST 1 SUBDIRECTORY BETWEEN A LEAF FILE AND THE ROOT (ALL/) DIRECTORY.
