@@ -12,7 +12,7 @@ CAN BE INSIDE THIS PLACE
 
  ALL/
 
-    BLOG/
+   BLOG/
 
    SCRIPT/
 
