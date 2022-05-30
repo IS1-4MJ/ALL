@@ -13,7 +13,7 @@ CAN BE INSIDE THIS PLACE
     ALL/
         BLOG/
         CODE/
-        CALCULUS/
+        MATH/
         ...
         ANALYSIS/
         PHOTO/ 
