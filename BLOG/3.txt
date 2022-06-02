@@ -1,0 +1,9 @@
+Here are some resources useful for learning and implementing.
+https://github.com/codecrafters-io/build-your-own-x
+MANY INTER LANGUAGE TOPICS AND GUIDES.
+
+http://www.rosettacode.org/wiki/Help:Similar_Sites
+MANY INTER LANGUAGE PROGRAMMING INFORMATION.
+
+https://www.reddit.com/r/learnprogramming/
+3M USER COMMUNITY. MANY POST. MANY RESOURCE. MANY HELP.
